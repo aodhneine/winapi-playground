@@ -21,5 +21,16 @@
     <ClCompile Include="window.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stdio.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="winapi.ixx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="variadic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
